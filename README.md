@@ -9,33 +9,18 @@ rs school task
 
 Сверстать слайдер согласно требованиям:
 
-Desktop:
+https://github.com/DrDiman/CSS-Mem-Slider/blob/main/README.md
 
-<kbd>![screenshot](assets/fullScreen.gif)</kbd>
-
-Mobile:
-
-<kbd>![screenshot](assets/mobileView.gif)</kbd>
 
 1. Слайдер позиционируется с равными отступами слева и справа;
 2. Расположение картинок, подписей к ним и контролов:
-
-Desktop:
-
-<kbd>![screenshot](assets/fullScreenGrid.png)</kbd>
-
-Mobile:
-
-<kbd>![screenshot](assets/mobileGrid.png)</kbd>
-
 3. Имеется анимация для смены картинок
 4. Имеется анимация для смены подписей к каринкам
 5. Подписи к картинкам должны быть строковыми значениями (текстом)
 6. Каждый контрол имеет большую область нажатия
 7. Контролы имеют интерактивность (момент наведения, момент нажатия, активный контрол, изменение курсора)
 
-Controls effects:
-<kbd>![screenshot](assets/controlsEffects.gif)</kbd>
+
 
 ## Требования к репозиторию и как сабмитить задание
 1. создайте личный публичный репозиторий `cssMemSlider`
